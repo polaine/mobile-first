@@ -1,0 +1,44 @@
+total 344
+lrwxr-xr-x  1 richm  admin    40  7 Sep 08:14 appium -> ../lib/node_modules/appium/bin/appium.js
+lrwxr-xr-x  1 richm  admin    47  7 Sep 08:14 appium-doctor -> ../lib/node_modules/appium/bin/appium-doctor.js
+lrwxr-xr-x  1 richm  admin    37  8 Sep 04:39 asn1Coding -> ../Cellar/libtasn1/4.5/bin/asn1Coding
+lrwxr-xr-x  1 richm  admin    39  8 Sep 04:39 asn1Decoding -> ../Cellar/libtasn1/4.5/bin/asn1Decoding
+lrwxr-xr-x  1 richm  admin    37  8 Sep 04:39 asn1Parser -> ../Cellar/libtasn1/4.5/bin/asn1Parser
+lrwxr-xr-x  1 richm  admin    47  7 Sep 08:14 authorize_ios -> ../lib/node_modules/appium/bin/authorize-ios.js
+-rwxr-xr-x  1 richm  admin   791  8 Sep 04:17 brew
+lrwxr-xr-x  1 root   wheel    67  7 May 06:08 git-lfs -> /Users/richm/Apps/GitHub.app/Contents/Resources/git-lfs/bin/git-lfs
+lrwxr-xr-x  1 root   wheel    54  7 May 06:08 github -> /Users/richm/Apps/GitHub.app/Contents/MacOS/github_cli
+lrwxr-xr-x  1 richm  admin    39 15 Jul 06:21 grunt -> ../lib/node_modules/grunt-cli/bin/grunt
+lrwxr-xr-x  1 richm  admin    47  8 Sep 04:39 idevice_id -> ../Cellar/libimobiledevice/1.2.0/bin/idevice_id
+lrwxr-xr-x  1 richm  admin    50  8 Sep 04:39 idevicebackup -> ../Cellar/libimobiledevice/1.2.0/bin/idevicebackup
+lrwxr-xr-x  1 richm  admin    51  8 Sep 04:39 idevicebackup2 -> ../Cellar/libimobiledevice/1.2.0/bin/idevicebackup2
+lrwxr-xr-x  1 richm  admin    55  8 Sep 04:39 idevicecrashreport -> ../Cellar/libimobiledevice/1.2.0/bin/idevicecrashreport
+lrwxr-xr-x  1 richm  admin    48  8 Sep 04:39 idevicedate -> ../Cellar/libimobiledevice/1.2.0/bin/idevicedate
+lrwxr-xr-x  1 richm  admin    49  8 Sep 04:39 idevicedebug -> ../Cellar/libimobiledevice/1.2.0/bin/idevicedebug
+lrwxr-xr-x  1 richm  admin    60  8 Sep 04:39 idevicedebugserverproxy -> ../Cellar/libimobiledevice/1.2.0/bin/idevicedebugserverproxy
+lrwxr-xr-x  1 richm  admin    55  8 Sep 04:39 idevicediagnostics -> ../Cellar/libimobiledevice/1.2.0/bin/idevicediagnostics
+lrwxr-xr-x  1 richm  admin    57  8 Sep 04:39 ideviceenterrecovery -> ../Cellar/libimobiledevice/1.2.0/bin/ideviceenterrecovery
+lrwxr-xr-x  1 richm  admin    56  8 Sep 04:39 ideviceimagemounter -> ../Cellar/libimobiledevice/1.2.0/bin/ideviceimagemounter
+lrwxr-xr-x  1 richm  admin    48  8 Sep 04:39 ideviceinfo -> ../Cellar/libimobiledevice/1.2.0/bin/ideviceinfo
+lrwxr-xr-x  1 richm  admin    48  8 Sep 04:39 idevicename -> ../Cellar/libimobiledevice/1.2.0/bin/idevicename
+lrwxr-xr-x  1 richm  admin    61  8 Sep 04:39 idevicenotificationproxy -> ../Cellar/libimobiledevice/1.2.0/bin/idevicenotificationproxy
+lrwxr-xr-x  1 richm  admin    48  8 Sep 04:39 idevicepair -> ../Cellar/libimobiledevice/1.2.0/bin/idevicepair
+lrwxr-xr-x  1 richm  admin    53  8 Sep 04:39 ideviceprovision -> ../Cellar/libimobiledevice/1.2.0/bin/ideviceprovision
+lrwxr-xr-x  1 richm  admin    54  8 Sep 04:39 idevicescreenshot -> ../Cellar/libimobiledevice/1.2.0/bin/idevicescreenshot
+lrwxr-xr-x  1 richm  admin    50  8 Sep 04:39 idevicesyslog -> ../Cellar/libimobiledevice/1.2.0/bin/idevicesyslog
+lrwxr-xr-x  1 richm  admin    63  8 Sep 04:39 ios_webkit_debug_proxy -> ../Cellar/ios-webkit-debug-proxy/1.5/bin/ios_webkit_debug_proxy
+lrwxr-xr-x  1 richm  admin    35  8 Sep 04:39 iproxy -> ../Cellar/usbmuxd/1.0.10/bin/iproxy
+lrwxr-xr-x  1 richm  admin    32 15 Jul 06:21 jspm -> ../lib/node_modules/jspm/jspm.js
+lrwxr-xr-x  1 richm  admin    41 15 Jul 06:26 libpng-config -> ../Cellar/libpng/1.6.17/bin/libpng-config
+lrwxr-xr-x  1 richm  admin    43 15 Jul 06:26 libpng16-config -> ../Cellar/libpng/1.6.17/bin/libpng16-config
+lrwxr-xr-x  1 richm  admin    30 15 Jul 06:21 node -> ../Cellar/node/0.12.7/bin/node
+lrwxr-xr-x  1 richm  admin    46 15 Jul 06:21 npm -> /usr/local/lib/node_modules/npm/bin/npm-cli.js
+lrwxr-xr-x  1 richm  admin    37  8 Sep 04:39 plistutil -> ../Cellar/libplist/1.12/bin/plistutil
+lrwxr-xr-x  1 richm  admin    40 15 Jul 06:26 png-fix-itxt -> ../Cellar/libpng/1.6.17/bin/png-fix-itxt
+lrwxr-xr-x  1 richm  admin    34 15 Jul 06:26 pngfix -> ../Cellar/libpng/1.6.17/bin/pngfix
+lrwxr-xr-x  1 root   admin    68 29 Jul 01:25 prl_convert -> /Applications/Parallels Desktop.app/Contents/MacOS/parallels_wrapper
+lrwxr-xr-x  1 root   admin    68 29 Jul 01:25 prl_disk_tool -> /Applications/Parallels Desktop.app/Contents/MacOS/parallels_wrapper
+lrwxr-xr-x  1 root   admin    68 29 Jul 01:25 prl_perf_ctl -> /Applications/Parallels Desktop.app/Contents/MacOS/parallels_wrapper
+lrwxr-xr-x  1 root   admin    68 29 Jul 01:25 prlctl -> /Applications/Parallels Desktop.app/Contents/MacOS/parallels_wrapper
+lrwxr-xr-x  1 root   admin    68 29 Jul 01:25 prlsrvctl -> /Applications/Parallels Desktop.app/Contents/MacOS/parallels_wrapper
+-rwxr--r--  1 richm  staff  2760 24 Aug 07:29 wstorm
